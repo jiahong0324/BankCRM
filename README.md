@@ -1,10 +1,6 @@
 # 🏦 SecureBank CRM – Bank Customer Relationship Program
 ### Object-Oriented Programming (OOP) – Java Swing GUI Application
 
-<p align="center">
-  <img src="securebank_crm_mockup.png" alt="SecureBank CRM Dashboard" width="800">
-</p>
-
 ---
 
 ## OOP Principles Demonstrated
