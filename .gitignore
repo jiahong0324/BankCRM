@@ -1,0 +1,38 @@
+# NetBeans specific
+**/nbproject/private/
+**/nbproject/Makefile-genesis.properties
+**/nbproject/Package-*.bash
+build/
+dist/
+nbdist/
+nblib/
+
+# Java / class files
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Log files
+*.log
+
+# Crash dumps
+*.dmp
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# JVM Crash logs
+hs_err_pid*
+reply_pid*
+
+# IntelliJ IDEA specific
+.idea/
+*.iml
+*.iws
+out/
